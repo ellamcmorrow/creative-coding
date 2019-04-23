@@ -1,0 +1,26 @@
+.p5Canvas {
+    width:100%
+}
+
+body{
+ background-color: #C6BBAC;
+ font-size: 24px;
+ color:#2d2d2d;
+
+
+}
+.container{
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 16px;
+color:#2d2d2d;
+
+}
+.underline{
+ border-bottom: 2px solid #EF5F35;
+ margin-top: 100px;
+
+}
+.heading{
+padding-top: 100px;
+}
